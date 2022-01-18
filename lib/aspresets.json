@@ -18,5 +18,8 @@
     },
     "testing-ssim": {
         "x265Options": "tune=ssim:ssim:psy-rd=0"
+    },
+    "knuspel": {
+        "x265Options": "rc=vbr_hq:cq=22:qmin=22:qmax=27:no-sao"
     }
 }
